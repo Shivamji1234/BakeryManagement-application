@@ -25,7 +25,7 @@ This project is based on the bakery management model. BakeryAdmin can do crud op
 ## For admin directly go to admin panel 
 From there item and ingredients can be added.
 
-## To access item view API, View all orders API, Order specific items API first we have to authorize the registered token in Postman.
+## To access item view API, View all orders API and Order specific items API, first we have to authorize the registered token in Postman authorization OAuth 2.0.
 
 * Only registered customer can access all of the above mentioned API.
 
