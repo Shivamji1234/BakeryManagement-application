@@ -15,11 +15,11 @@ This project is based on the bakery management model. BakeryAdmin can do crud op
 
 * Login: `http://127.0.0.1:8000/Customer/login/`
 
-* All items view API: `http://127.0.0.1:8000/customer/view-items/`
+* All items view API: `http://127.0.0.1:8000/Customer/view-items/`
 
-* View all orders API: `http://127.0.0.1:8000/customer/view-orders/`
+* View all orders API: `http://127.0.0.1:8000/Customer/view-orders/`
 
-* Order specific items API: `http://127.0.0.1:8000/customer/order/`
+* Order specific items API: `http://127.0.0.1:8000/Customer/order/`
 
 
 ## For admin directly go to admin panel 
