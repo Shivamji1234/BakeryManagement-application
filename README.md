@@ -37,7 +37,7 @@ From there item and ingredients can be added.
 }
 ```
 
-* Register
+# Register
 ```
 {
     "username": "shivam",
@@ -48,7 +48,7 @@ From there item and ingredients can be added.
 }
 ```
 
-* Login
+# Login
 ```
 {
     "username": "shivam",
