@@ -53,6 +53,7 @@ def items_view(request):
         items = Items.objects.all()
         for item in items:
             response.append({
+                'item_id': item.id,
                 'name': item.name,
                 'quantity': item.quantity,
                 'price': item.sell_price,
